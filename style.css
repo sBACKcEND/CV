@@ -82,7 +82,6 @@ main section:not(:last-child) {
 
 @media screen and (max-width: 1200px) {
   h1 {
-    width: 100px;
-    animation: typing 3s steps(40, end), blink-caret 0.75s step-end infinite;
+    animation: none;
   }
 }
