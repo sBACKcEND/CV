@@ -79,3 +79,10 @@ main {
 main section:not(:last-child) {
   border-bottom: 1.3px solid rgb(82, 82, 82);
 }
+
+@media screen and (max-width: 1200px) {
+  h1 {
+    width: 200px;
+    animation: typing 10s steps(40, end), blink-caret 0.75s step-end infinite;
+  }
+}
