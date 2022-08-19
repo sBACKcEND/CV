@@ -3,5 +3,6 @@
 ### Link: https://sbackcend.github.io/CV/
 ----
 ### ScreenShot: 
-![screenshot](https://user-images.githubusercontent.com/107551364/183477940-d0c969dd-e7f6-4f5c-956e-972ee17fc049.png)
+![screenshot](https://user-images.githubusercontent.com/107551364/185575111-cec841dc-f6e7-4dba-a355-6f687d562a21.png)
+
 
