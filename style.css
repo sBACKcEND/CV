@@ -50,6 +50,10 @@ h1 {
   }
 }
 
+.responsive {
+  display: none;
+}
+
 .header {
   margin: 0 auto;
   max-width: 640px;
@@ -91,6 +95,16 @@ main section:not(:last-child) {
 }
 
 @media screen and (max-width: 1200px) {
+  .heading {
+    display: none;
+  }
+
+  .responsive {
+    display: block;
+    height: 100px;
+    margin-bottom: 20px;
+  }
+
   h1 {
     animation: none;
     border-right: none;
