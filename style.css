@@ -80,6 +80,16 @@ main section:not(:last-child) {
   border-bottom: 1.3px solid rgb(82, 82, 82);
 }
 
+.skills .column ul {
+  list-style-type: none;
+}
+
+.skills .column ul > li::before {
+  content: "►";
+  padding-right: 10px;
+  color: grey;
+}
+
 @media screen and (max-width: 1200px) {
   h1 {
     animation: none;
