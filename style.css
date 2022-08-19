@@ -103,11 +103,11 @@ main section:not(:last-child) {
     display: block;
     height: 100px;
     margin-bottom: 20px;
+    font-size: 30px;
   }
 
   h1 {
     animation: none;
     border-right: none;
-    font-size: 30px;
   }
 }
